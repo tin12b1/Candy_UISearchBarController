@@ -134,3 +134,5 @@ class MasterViewController: UITableViewController, UISearchBarDelegate, UISearch
         filterContentForSearchText(searchText: searchBar.text!, scope: searchBar.scopeButtonTitles![selectedScope])
     }
 }
+
+//Initial commit
